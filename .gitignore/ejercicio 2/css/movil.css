@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+@media only screen and (max-width : 480px) {
+
+
+.video{
+	display: none;
+}
+	
+hr{
+	border: 1px dotted!important;
+}
+img{
+	float: left!important;
+}
+
+header{
+	border-width: 2px;
+	
+}
+
+	
+
+}
